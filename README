@@ -1,0 +1,4 @@
+Guard-Schema is a guard extension (fork of guard-db) handling the rake db:test:clone when schema.rb changes
+
+Just put gem 'guard-schema' to your Gemfile,
+run 'bundle install', 'bundle exec guard init schema' and edit your Guardfile

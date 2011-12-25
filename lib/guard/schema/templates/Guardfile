@@ -1,0 +1,3 @@
+guard 'schema' do
+  watch('db/schema.rb')
+end
